@@ -257,7 +257,7 @@ funcionamiento de su función.
 Inserte a continuación una captura de pantalla que muestre el resultado de ejecutar el
 fichero `alumno.py` con la opción *verbosa*, de manera que se muestre el
 resultado de la ejecución de los tests unitarios.
-![Tests](test.png)
+![Tests](tests.png)
 
 ##### Código desarrollado
 
